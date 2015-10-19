@@ -1,0 +1,49 @@
+.navbar{
+	min-height: 81px;
+	background: white;
+    border-radius: 0;
+    padding-top: 7px;
+    margin-bottom:0px;
+    background-size: contain;
+}
+.navbar-brand > img
+{
+	height: 50px;
+	padding-right:300px;
+	
+}
+.navbar-default .navbar-nav > li > a {
+	font-family: "Javanese Text";
+	font-size:20px;
+	font-weight: bold;
+    color: gray; 
+	padding-left:30px;
+	padding-top:20px;
+}
+.navbar-default .navbar-nav > li > a:hover,.navbar-default .navbar-nav > li > a:focus {
+    color: #666666;
+}
+.jumbotron {
+    margin-bottom: 0px;
+}
+.input-group{
+	width:100%;
+}
+.input-group .form-control
+{
+	margin-top: 20px;padding: 12px;font-size: 18px;font-weight: 400;
+}
+textarea
+{
+	width: 100%;margin-top: 20px;padding: 12px;font-size: 18px;font-weight: 400;margin-bottom:20px;
+}
+.btn-default{
+	width: 100%;font-size: 18px;
+}
+h1,h2,h3
+{
+	font-family:Pacifico;
+}
+p{
+	font-family:Javanese Text;
+}
